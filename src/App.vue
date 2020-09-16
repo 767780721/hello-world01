@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>pangniu 不是猪才怪</h2>
+    <h2>pangniu 不是猪才怪 呵呵！</h2>
     <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=4033524737,3314861434&fm=26&gp=0.jpg"/>
 
   </div>
